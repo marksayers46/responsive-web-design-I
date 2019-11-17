@@ -96,8 +96,8 @@ header {
 /* Start cta (call to action) */
 
  .cta {
-margin-top: 75px;
-margin-bottom: 20px;
+    margin-top: 75px;
+    margin-bottom: 20px;
 }
 .innovate {
 	display: inline-block;
@@ -147,9 +147,9 @@ margin-bottom: 20px;
 /* Start of lower-wrapper section */
 
  .lower-wrapper{
-width: 100%;
-vertical-align: middle;
-text-align: left;
+    width: 100%;
+    vertical-align: middle;
+    text-align: left;
 }
 .services, .product, .vison{
 	display: inline-block;
@@ -232,11 +232,10 @@ text-align: left;
 	}
 
 	.cta {
-		margin: 1px;
+		margin: 1px -20px;
 		padding: 10px 50px 40px 20px;
 		width: 500px;
-		align-items: center;
-		text-align: center;
+		
 	}
 
 	hr {
